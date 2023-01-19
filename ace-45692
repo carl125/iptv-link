@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://bit.ly/guidevn"
 
-#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",✍ KhamPha Update 14/1
+#EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",✍ KhamPha Update 19/1
 acestream://bc92bbc45be12cf51706daf41ca9fc4212677455
 #EXTINF:-1 tvg-logo="https://www.designfreelogoonline.com/wp-content/uploads/2020/10/000668-soccer-01.png",Thanks for upload acestream-logo-epg!
 acestream://bc92bbc45be12cf51706daf41ca9fc4212677455
@@ -16,138 +16,22 @@ acestream://bc92bbc45be12cf51706daf41ca9fc4212677455
 
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",19h30 Man Utd-Man City 1 ELEVEN 1 PT FHD
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png",19h30 Man Utd-Man City 2 BT SPORT 1 FHD1
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",19h30 Man Utd-Man City 3 DAZN 1 ES FHD1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",19h30 Man Utd-Man City 4 SETANTA 1 RU FHD
-acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN1 ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",19h30 Man Utd-Man City 5 DAZN 1 ES HD
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",19h30 Man Utd-Man City 6 BEIN SPORT 3 TR FHD
-acestream://ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",19h30 Man Utd-Man City 7 PIMPLETV 4 FHD 50FPS
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg",19h30 Man Utd-Man City 8 ACETOP 2 HD 50FPS
-acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",20h00 Valladolid-Rayo Vallecano 1 ELEVEN 2 FHD
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png",20h00 Valladolid-Rayo Vallecano 2 ELEVEN 2 PT FHD
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",20h00 Valladolid-Rayo Vallecano 3 DAZN 1 DE FHD
+#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",21h00 Atalanta-Spezia 1 DAZN 1 DE FHD
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-select-285.png",20h00 Valladolid-Rayo Vallecano 4 ZIGGO SELECT FHD
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-select-285.png",21h00 Atalanta-Spezia 2 ZIGGO SELECT FHD
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/dazn-laliga%20.png",20h00 Valladolid-Rayo Vallecano 5 DAZN LALIGA FHD
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",20h00 Valladolid-Rayo Vallecano 6 PIMPLETV 5 FHD 50FPS
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",21h00 Atalanta-Spezia 3 PIMPLETV 4 FHD 50FPS
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",21h00 Atalanta-Spezia 4 PIMPLETV 5 FHD 50FPS
 acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 
 
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",22h00 Brighton-Liverpool 1 ELEVEN 1 PT FHD
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-canal-sport-555.png",22h00 Brighton-Liverpool 2 CANAL+ SPORT FHD
-acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",22h00 Brighton-Liverpool 3 DAZN 1 ES FHD1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",22h00 Brighton-Liverpool 4 SETANTA 1 RU FHD
-acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN1 ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",22h00 Brighton-Liverpool 5 DAZN 1 ES HD
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",22h00 Brighton-Liverpool 6 BEIN SPORT 3 TR FHD
-acestream://ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",22h00 Brighton-Liverpool 7 PIMPLETV 4 FHD 50FPS
-acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg",22h00 Brighton-Liverpool 8 ACETOP 2 HD 50FPS
-acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-3-portugal.png",22h00 Wolverhampton-West Ham 1 ELEVEN 3 PT FHD
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",22h00 Wolverhampton-West Ham 2 DAZN 2 ES FHD1
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",22h00 Everton-Southampton 1 DAZN 4 ES FHD1
-acestream://149a38e333de920753f1388c43247283bdb05f5b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-4-portugal.png",22h00 Everton-Southampton 2 ELEVEN 4 PT FHD
-acestream://0f32c0131a2d9444996410801f4e18b04384db98
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",22h00 Nottingham Forest-Leicester 1 DAZN 3 ES FHD1
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-5-portugal.png",22h00 Nottingham Forest-Leicester 2 ELEVEN 5 PT FHD
-acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",22h15 Girona-Sevilla 1 ELEVEN 3 FHD
-acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-2-portugal.png",22h15 Girona-Sevilla 2 ELEVEN 2 PT FHD
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",22h15 Girona-Sevilla 3 DAZN 1 DE FHD
+#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-deutschland-2703.png",0h00 Lazio-Bologna 1 DAZN 1 DE FHD
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-select-285.png",22h15 Girona-Sevilla 4 ZIGGO SELECT FHD
-acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/movistar-laliga.png",22h15 Girona-Sevilla 5 M LALIGA FHD
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",22h15 Girona-Sevilla 6 PIMPLETV 5 FHD 50FPS
-acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",0h00 Lecce-AC Milan 1 ELEVEN 1 FHD
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png",0h00 Lecce-AC Milan 2 ELEVEN 1 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png",0h00 Lecce-AC Milan 3 MATCH TV FHD
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",0h00 Lecce-AC Milan 4 MATCH 1 FHD
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",0h00 Lecce-AC Milan 5 DAZN 2 DE FHD
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-select-285.png",0h00 Lecce-AC Milan 6 ZIGGO SELECT FHD
-acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png",0h00 Lecce-AC Milan 7 BT SPORT 1 FHD1
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",0h00 Lecce-AC Milan 8 PIMPLETV 2 HD 50FPS
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/eleven-sports-portugal.png",0h30 Brentford-Bournemouth 1 ELEVEN 1 PT FHD
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png",0h30 Brentford-Bournemouth 2 SETANTA 1 RU FHD
-acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",0h30 Brentford-Bournemouth 3 DAZN 1 ES FHD1
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN1 ES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",0h30 Brentford-Bournemouth 4 DAZN 1 ES HD
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tu-bein-sports-3-642.png",0h30 Brentford-Bournemouth 5 BEIN SPORT 3 TR FHD
-acestream://ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",0h30 Brentford-Bournemouth 6 PIMPLETV 4 FHD 50FPS
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",0h00 Lazio-Bologna 2 PIMPLETV 4 FHD 50FPS
 acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.ytimg.com/vi/dxar7KLsrg8/hqdefault.jpg",0h30 Brentford-Bournemouth 7 ACETOP 2 HD 50FPS
-acestream://94adcdc5a9de993dd11c6d648275cfeb2be6715b
-
-
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",2h45 Inter Milan-Hellas Verona 1 ELEVEN 1 FHD
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png",2h45 Inter Milan-Hellas Verona 2 ELEVEN 1 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png",2h45 Inter Milan-Hellas Verona 3 MATCH TV FHD
-acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png",2h45 Inter Milan-Hellas Verona 4 MATCH 1 FHD
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 group-title="LIVE" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-deutschland-2704.png",2h45 Inter Milan-Hellas Verona 5 DAZN 2 DE FHD
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ziggo-select-285.png",2h45 Inter Milan-Hellas Verona 6 ZIGGO SELECT FHD
-acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bt-sport-1-uk.png",2h45 Inter Milan-Hellas Verona 7 BT SPORT 1 FHD1
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",2h45 Inter Milan-Hellas Verona 8 PIMPLETV 2 HD 50FPS
-acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg",0h00 Lazio-Bologna 3 PIMPLETV 5 FHD 50FPS
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
 
 
 
@@ -359,100 +243,25 @@ acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
 
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png" group-title="SPORTS",EUROSPORT 1 DE--TENNIS US OPEN
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-eurosport-1-150.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 1 DE
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png" group-title="SPORTS",EUROSPORT 2 DE--TENNIS US OPEN
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-de-eurosport-2-151.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 2 DE
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-1-ru-1419.png" group-title="SPORTS",EUROSPORT 1 RU--TENNIS US OPEN
-acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-2-ru-1420.png" group-title="SPORTS",EUROSPORT 2 RU--TENNIS US OPEN
-acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eurosport-556.png" group-title="SPORTS",EUROSPORT 1 PL--TENNIS US OPEN
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eurosport-556.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 1 PL
 acestream://314eb626864faf52e01624361bd6906b5406127f
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eurosport-2-557.png" group-title="SPORTS",EUROSPORT 2 PL--TENNIS US OPEN
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eurosport-2-557.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 2 PL
 acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-1-ru-1419.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 1 RU
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-2-ru-1420.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 2 RU
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-1-ru-1419.png" group-title="SPORTS",EUROSPORT 1 50FPS--TENNIS US OPEN
-acestream://fe5aa790ff0535f2a5e3392bbff41e92d41132ef
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eurosport-2-ru-1420.png" group-title="SPORTS",EUROSPORT 2 50FPS--TENNIS US OPEN
-acestream://6938aa609813c0c6b4e9d4f144f2e11b40b2d5f5
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="ĐUA XE F1",ELEVEN SPORT 1 PL--ĐUA XE F1
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="ĐUA XE F1",ELEVEN SPORT 1 PL 4K--ĐUA XE F1
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="ĐUA XE F1" tvg-id="Sky Sport 1 HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Sky_Sport_1_HD_PRIMARY_RGB.PNG",SKY SPORT 1 DE--ĐUA XE F1
-acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-de-2541.png" group-title="ĐUA XE F1",SKY SPORT F1 DE--ĐUA XE F1
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ĐUA XE F1",DAZN F1 FHD--ĐUA XE F1
-acestream://c372020ed2744033f56548b6beb11a9f3e740f37
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ĐUA XE F1",DAZN F1 FHD--ĐUA XE F1
-acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="4K",ELEVEN SPORT 1 PL 4K
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-logo="https://www.avcaesar.com/src/news/00/00/86/99/how-to-watch-the-tokyo-2020-olympic-games-in-4k-ultra-hd.jpg" group-title="4K",EUROSPORT 4K
-acestream://70a2ac1aaff849c5e93dffd709cfb8637384c8b2
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-uhd.png" group-title="4K",SKY BUNDESLIGA 4K
-acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
-#EXTINF:-1 tvg-logo="https://ak.picdn.net/shutterstock/videos/7872409/thumb/3.jpg" group-title="4K",CINEMA 4K
-acestream://6c76dccd15ff935fb1442223529d1aecc8f515d8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/284-2844478_russian-extreme-tv-channel-replaces-extreme-russian-extreme.png" group-title="4K",RUSSIAN EXTREME 4K
-acestream://9214a597a38ed669aba1fe73351a580b1a77ce6e
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="4K",LOVE NATURE 4K
-acestream://a54d3ec9d49487cb1e9102c74f341fec4cebd189
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png" group-title="SPORTS",Матч ТВ FHD
-#acestream://493cdbeb9463e19bb2ec72e60357d60072e3f908
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="SPORTS",Матч! Футбол 1 FHD
-#acestream://2b37d683900749f8ba7a520e3f06f012127980d4
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png" group-title="SPORTS",Матч! Футбол 2 FHD
-#acestream://636aacd9b73d46399fdc525ec3cb7e243a271d1b
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png" group-title="SPORTS",Матч! Футбол 3 FHD
-#acestream://485546bddda35f4d0ab5aba150978f600614c1a6
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV FHD-BÙI PHÚ THÀNH
-#http://1.235.147.198:9981/stream/channelid/787814516
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV2 FHD-BÙI PHÚ THÀNH
-#http://1.235.147.198:9981/stream/channelid/556964399
-
-#EXTINF:-1 tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV FHD-BÙI PHÚ THÀNH
-#http://119.197.107.139:9981/stream/channelid/24
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV2 FHD-BÙI PHÚ THÀNH
-#http://119.197.107.139:9981/stream/channelid/52
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 1 ESP
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" group-title="TENNIS AUSTRALIAN OPEN",TENNIS AUSTRALIAN OPEN--EUROSPORT 2 ESP
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 
 
 
@@ -702,6 +511,74 @@ acestream://899775d4bba3aa74280a4f57b08114affd948374
 acestream://cb7ec7de999e89d0235e35e85f528e46f66f238c
 #EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/281.png" group-title="VIETNAM",HOA BINH TV
 acestream://6d1ec2c76dcd36ec2a813604bc7b3ab8a48e883b
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="ĐUA XE F1",ELEVEN SPORT 1 PL--ĐUA XE F1
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="ĐUA XE F1",ELEVEN SPORT 1 PL 4K--ĐUA XE F1
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="ĐUA XE F1" tvg-id="Sky Sport 1 HD" tvg-logo="https://fiber.salt.ch/sites/default/files/tvchannels/Sky_Sport_1_HD_PRIMARY_RGB.PNG",SKY SPORT 1 DE--ĐUA XE F1
+acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sky-sport-f1-de-2541.png" group-title="ĐUA XE F1",SKY SPORT F1 DE--ĐUA XE F1
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ĐUA XE F1",DAZN F1 FHD--ĐUA XE F1
+acestream://c372020ed2744033f56548b6beb11a9f3e740f37
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="ĐUA XE F1",DAZN F1 FHD--ĐUA XE F1
+acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://avios.pl/wp-content/uploads/2018/12/elevensports1_4k.png" group-title="4K",ELEVEN SPORT 1 PL 4K
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-logo="https://www.avcaesar.com/src/news/00/00/86/99/how-to-watch-the-tokyo-2020-olympic-games-in-4k-ultra-hd.jpg" group-title="4K",EUROSPORT 4K
+acestream://70a2ac1aaff849c5e93dffd709cfb8637384c8b2
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-uhd.png" group-title="4K",SKY BUNDESLIGA 4K
+acestream://169da1e59ffd3947c09d65eb1a0de0c831bef390
+#EXTINF:-1 tvg-logo="https://ak.picdn.net/shutterstock/videos/7872409/thumb/3.jpg" group-title="4K",CINEMA 4K
+acestream://6c76dccd15ff935fb1442223529d1aecc8f515d8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/284-2844478_russian-extreme-tv-channel-replaces-extreme-russian-extreme.png" group-title="4K",RUSSIAN EXTREME 4K
+acestream://9214a597a38ed669aba1fe73351a580b1a77ce6e
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="4K",LOVE NATURE 4K
+acestream://a54d3ec9d49487cb1e9102c74f341fec4cebd189
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-game-russia.png" group-title="SPORTS",Матч ТВ FHD
+#acestream://493cdbeb9463e19bb2ec72e60357d60072e3f908
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="SPORTS",Матч! Футбол 1 FHD
+#acestream://2b37d683900749f8ba7a520e3f06f012127980d4
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png" group-title="SPORTS",Матч! Футбол 2 FHD
+#acestream://636aacd9b73d46399fdc525ec3cb7e243a271d1b
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png" group-title="SPORTS",Матч! Футбол 3 FHD
+#acestream://485546bddda35f4d0ab5aba150978f600614c1a6
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV FHD-BÙI PHÚ THÀNH
+#http://1.235.147.198:9981/stream/channelid/787814516
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV2 FHD-BÙI PHÚ THÀNH
+#http://1.235.147.198:9981/stream/channelid/556964399
+
+#EXTINF:-1 tvg-logo="https://www.spotv.net/images/intro/intro_logo.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV FHD-BÙI PHÚ THÀNH
+#http://119.197.107.139:9981/stream/channelid/24
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="AE INBOX - NOT ACESTREAM - THANKS",SPOTV2 FHD-BÙI PHÚ THÀNH
+#http://119.197.107.139:9981/stream/channelid/52
+
+
+
+
 
 
 
