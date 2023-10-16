@@ -1,5 +1,7 @@
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.ggpht.com/2ZNxE1Uu30rjtLrYY76vSy-CpvIDz9FuT66sLazPfLyJlTQ7JKKjwBC7iZNEtqIKimVMzH7BQrw=s900-c-k-c0x00ffffff-no-rj", vtv1 Live 1
 https://vtvgolive-vtv.vtvdigital.vn/oWMu39dKoRs3R1RCbX9xJg/1697416961/vtvdigital/vtv1-720p.m3u8
 
-
+#EXTM3U
+#EXTINF:-1,VTV1
+https://vtvgolive-vtv.vtvdigital.vn/oWMu39dKoRs3R1RCbX9xJg/1697416961/vtvdigital/vtv1-720p.m3u8
 
