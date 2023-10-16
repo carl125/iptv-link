@@ -1,32 +1,57 @@
 
 #EXTM3U
 
-#EXTINF:-1, group-title="VTV HD", VTV 1 HD
+#EXTINF:-1, group-title="VTV", VTV 1
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/25352ad8705f6dcef484cba9373c1f6e/1697508581451/livetv/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV 2 HD
+#EXTINF:-1, group-title="VTV", VTV 2
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/32f4825987634a2c3357d1bf3bb31602/1697508840338/livetv/65e4e2cd4a6cd1c07682cc9d1830fd3f/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV 3 HD
+#EXTINF:-1, group-title="VTV", VTV 3
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/37c7584a9cc90c9aa7811fcdc8bd0185/1697508880774/livetv/00f4aa36b8d034b5e8569b77d1675c1e/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV 4 HD
+#EXTINF:-1, group-title="VTV", VTV 4
 https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/81d003b8c5efa4c4f44a8fe88b03a55a/1697508913693/livetv/c9e89fdf42233e52a57a312baa4e9da0/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV 5 HD
+#EXTINF:-1, group-title="VTV", VTV 5
 https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/692cc415665939742430caa6f2c68174/1697508937394/livetv/53a3ed9b2879dc2dcc2051bff6060b37/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV Cần Thơ HD
+#EXTINF:-1, group-title="VTV", VTV Cần Thơ
 https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/712d7203b5dd83067bee82ac4871e64d/1697508985446/livetv/fdb7f91923323e646a69ce149f95f6cd/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV 7 HD
+#EXTINF:-1, group-title="VTV", VTV 7
 https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/57ee6ab3419133638725c4d8b54b3b51/1697509019183/livetv/67d1c84cac97171d714848c4c34c2b3a/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV 8 HD
+#EXTINF:-1, group-title="VTV", VTV 8
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/48a646d45278630df1b59aaaea28fc8d/1697509034693/livetv/fd6b24e22924ecd153258819ba2049b8/playlist.mpd?codec=hvc
 
-#EXTINF:-1, group-title="VTV HD", VTV 9 HD
+#EXTINF:-1, group-title="VTV", VTV 9
 https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/aa21e9da0006580dc3a186ec9f56a9c7/1697509048733/livetv/6f34d2d2b930641beddae9c9480005a7/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", HTV 1
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/2242f02592461e090121f297bcef58ed/1697509259548/livetv/93068c2a0ec828ae6ee56aa628341497/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", HTV 2
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/e16e90806aed534b66672931f14d1ac2/1697509176344/livetv/84e39f2158e950a0d63d783260f7ea75/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", HTV 3
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/f0f89bc7a0d2c710d0f219c4ca581804/1697509299971/livetv/96f1e40fdc011502d396c2eb0c3d9627/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", VTV KEY
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/57d0704b865eca2125e686286201f3fd/1697509413785/livetv/91e13f38078114329b4b4d45f613924b/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", VTV 7
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/ecd274512f060a12ecc8134c80a4211b/1697509452508/livetv/60efe6198ce953ae1411fb164e334367/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", VTV 9
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/38e4ab3c1a5be9442f6645fe8819a2d4/1697509472353/livetv/6d8dfd97165650a8935c57262d9be67f/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", VTV Thể Thao
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/d3219f57ae02498b0abc2dd8f30b7fd9/1697509492447/livetv/d3d81ce359479433b1ccf8d14c1d6578/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTV", VTV Co op
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/24b550e779ac3485f19f661d372d8833/1697509520159/livetv/bde40bfcc78519e17803b1a170d6e34b/playlist.mpd?codec=hvc
+
 
 
 
