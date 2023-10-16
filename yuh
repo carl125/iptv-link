@@ -1,150 +1,136 @@
 #EXTM3U
-#EXTINF:-1,VTV 1 HD
+#EXTINF:-1,group-title="Kênh cơ bản",VTV 1 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnR2MWhkX3ZobHMuc21pbHx2aWV0dGVsfDE2OTc0MTYzNjB8MTcxLjIzMi43Ni4xNTZ8Y2ExZjU0NmQ4ODg5N2MxM2I2NGQzMjQ5MDUwYjMwOTA/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 1 HD
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 1 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMV92aGxzLnNtaWx8dmlldHRlbHwxNjk3NDE2NTk1fDE3MS4yMzIuNzYuMTU2fGMyNDI0YmZmZDY2N2Y2NWUxZGFjNWIyMDI2YTNiYzMz/fnxhd2/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,TTXVN HD
+#EXTINF:-1,group-title="Kênh cơ bản",TTXVN HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dHR4dm5fdmhscy5zbWlsfHZpZXR0ZWx8MTY5NzQxNjY1MnwxNzEuMjMyLjc2LjE1NnwwNjE4YjBlMTUwNTk4Njc0Njk5YzczNmYyMDIzMmYxYw/epzhd2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,Quốc Hội HD
+#EXTINF:-1,group-title="Kênh cơ bản",Quốc Hội HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8cXVvY2hvaXZuX3ZobHMuc21pbHx2aWV0dGVsfDE2OTc0MTY3MTN8MTcxLjIzMi43Ni4xNTZ8ZGViMjhmZTVmYTVkYTU5MTE0MzZmNDM5NDg4OWRiYzQ/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,Quốc phòng VN HD
+#EXTINF:-1,group-title="Kênh cơ bản",Quốc phòng VN HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8cXVvY3Bob25ndm5oZF92aGxzLnNtaWx8dmlldHRlbHwxNjk3NDE2NzY3fDE3MS4yMzIuNzYuMTU2fGY4Y2ZlMGI0NGMwNzk5Y2I1YWZkMGExYjJhYzllMzZj/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,An Ninh TV HD
+#EXTINF:-1,group-title="Kênh cơ bản",An Ninh TV HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8YW5uaW5odHZfdmhscy5zbWlsfHZpZXR0ZWx8MTY5NzQxNjgwM3wxNzEuMjMyLjc2LjE1NnwzYWM3OTMzYTJhZjZmYzkzNmE4ZWQ4MTgxYzM0ZTU4OA/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,Nhân Dân TV HD
+#EXTINF:-1,group-title="Kênh cơ bản",Nhân Dân TV HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dHJ1eWVuaGluaG5oYW5kYW5faGxzLnNtaWx8dmlldHRlbHwxNjk3NDE2ODQ5fDE3MS4yMzIuNzYuMTU2fGFkMzVjY2JhZTVkMWU2ODRmYzAyZmU2NjJiZTVjMzhk/fnxhd2/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,Vĩnh Long 1 HD
+#EXTINF:-1,group-title="Kênh cơ bản",Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dmluaGxvbmcxXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY5NzQxNzE5MXwxNzEuMjMyLjc2LjE1Nnw4ZjQ2YmZkNDNmODlhZjdhMmUwOTAxMDNmMTNkZTViOA/epzhd2/vinhlong1_4000.stream/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:-1,Vĩnh Long 2 HD
+#EXTINF:-1,group-title="Kênh cơ bản",Vĩnh Long 2 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dmluaGxvbmcyXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY5NzQxNzE1MXwxNzEuMjMyLjc2LjE1NnwxZmFkMzAxYzEzY2I5ODg5ZDVkOGU3YTU5NGNlZGQ2OA/epzhd2/vinhlong2_4000.stream/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:-1,Vĩnh Long 3 HD
+#EXTINF:-1,group-title="Kênh cơ bản",Vĩnh Long 3 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dmluaGxvbmczXzQwMDAuc3RyZWFtfHZpZXR0ZWx8MTY5NzQxNzEwOXwxNzEuMjMyLjc2LjE1NnwwYmIzOTJmZGNhYjE5NzRkYjNkNWU3MDhiODk0MmViMw/epzhd2/vinhlong3_4000.stream/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:-1,Vĩnh Long 4 HD
+#EXTINF:-1,group-title="Kênh cơ bản",Vĩnh Long 4 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dmluaGxvbmc0aGRfNDAwMC5zdHJlYW18dmlldHRlbHwxNjk3NDE3MDUwfDE3MS4yMzIuNzYuMTU2fGZhZTcwMjU4NDMyYTc5YjhhYWQwZjJkY2Q5ZTU2Nzlm/epzhd2/vinhlong4hd_4000.stream/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:-1,SCTV  HD
+#EXTINF:-1,group-title="Kênh cơ bản",SCTV  HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8ZmlsbTM2MF80MDAwLnN0cmVhbXx2aWV0dGVsfDE2OTc0MTczNDV8MTcxLjIzMi43Ni4xNTZ8MjNmNzRkZTA4MzcwNzhlOWVlNmNjNDE5ZDhjOGQ4MjE/epzhd2/film360_4000.stream/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMl9obHMuc21pbHx2aWV0dGVsfDE2OTc0MTc0NDB8MTcxLjIzMi43Ni4xNTZ8ZGU2Yzc1NGY0MWZiNDQ4MzgwYTg1YzM0MDk1NzU2NDg/fnxhd2/vtc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 3 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 3 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjM2hkX3ZobHMuc21pbHx2aWV0dGVsfDE2OTc0MTc1Mzh8MTcxLjIzMi43Ni4xNTZ8NmE2NDVkOTQ2NWI2NTliMGZjYzBjNzcyZDQ5NzRiYTM/fnxhd2/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 4 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 4 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjNF92aGxzLnNtaWx8dmlldHRlbHwxNjk3NDE3NTk1fDE3MS4yMzIuNzYuMTU2fGQwZTk4MDY4NmFiNWUwZTY5NjU1ZTI2MDNiNTQzZTBm/fnxhd2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 5 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 5 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjNV8yMDAwLnN0cmVhbXx2aWV0dGVsfDE2OTc0MTc2NzF8MTcxLjIzMi43Ni4xNTZ8OTNjNmZkYWU5YmJmZmFjYWNlNWRkZDNhYjUzZjk3YWM/fnxhd2/vtc5_2000.stream/chunklist.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 6 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 6 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjNl92aGxzLnNtaWx8dmlldHRlbHwxNjk3NDE3NzE1fDE3MS4yMzIuNzYuMTU2fGM5NzU4ZjAzYjA1OTljZmFiYzZhZTRjNDBmZWUzODgz/fnxhd2/vtc6_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 7 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 7 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dG9kYXl0dl9obHMuc21pbHx2aWV0dGVsfDE2OTc0MTc3NDh8MTcxLjIzMi43Ni4xNTZ8M2IzZjcyOGE5YmNhMDYwZTQ5MGM3MTdhZDhkODk1ZmY/fnxhd2/todaytv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 8 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 8 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjOF9obHMuc21pbHx2aWV0dGVsfDE2OTc0MTc3NzN8MTcxLjIzMi43Ni4xNTZ8Mzk1ZGQ0NzU0MGE2MmY3YmNlN2Q3M2E2YzI2NDY5NDc/fnxhd2/vtc8_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 9 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 9 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjOV9obHMuc21pbHx2aWV0dGVsfDE2OTc0MTc4MTJ8MTcxLjIzMi43Ni4xNTZ8MzQ2MjczMWFmOWE1NzViY2E5NDA1NjI0ZjhiMjBlNDA/fnxhd2/vtc9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 10 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 10 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMTBoZF92aGxzLnNtaWx8dmlldHRlbHwxNjk3NDE3ODM5fDE3MS4yMzIuNzYuMTU2fDg4NDU2NmYyMzEwYjNjNDVhNDkwNDc2NzE4ODE4ODFi/fnxhd2/vtc10hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 11 HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 11 HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMTFfaGxzLnNtaWx8dmlldHRlbHwxNjk3NDE3ODcxfDE3MS4yMzIuNzYuMTU2fGY0YjgwNjM4ZWI5MGM0NzUwZGRhZjVlZGI2NDc1YmRm/fnxhd2/vtc11_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 12  HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 12  HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMTJfaGxzLnNtaWx8dmlldHRlbHwxNjk3NDE3OTMwfDE3MS4yMzIuNzYuMTU2fGVmNTFhMTQxNTYxMzA0N2I3MDVjYzZjNzZiM2RmZDVh/fnxhd2/vtc12_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 13  HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 13  HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMTNfdmhscy5zbWlsfHZpZXR0ZWx8MTY5NzQxODAxMHwxNzEuMjMyLjc2LjE1Nnw0MmQ1MWZjZDdmZTI3ZmEzMjk2OTljMGZjM2Y4ZWE2Yg/fnxhd2/vtc13_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 14  HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 14  HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMTRfdmhscy5zbWlsfHZpZXR0ZWx8MTY5NzQxODAzMnwxNzEuMjMyLjc2LjE1Nnw5ZjVkMGY0MjNmNmUxZDBiNmU5MWU4NjA2MDQ3OWU4ZQ/fnxhd2/vtc14_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1,VTC 16  HD 
+#EXTINF:-1,group-title="Kênh cơ bản",VTC 16  HD 
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMTZfaGxzLnNtaWx8dmlldHRlbHwxNjk3NDE4MDYzfDE3MS4yMzIuNzYuMTU2fDM5MmUxYjY1ODIzOTQ4YWI1MTliYmU0MzIxNWQ0OTcw/fnxhd2/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1,TH Đồng Tháp 2
+#EXTINF:-1,group-title="Kênh cơ bản",TH Đồng Tháp 2
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8ZG9uZ3RoYXBoZF92aGxzLnNtaWx8dmlldHRlbHwxNjk3NDE4MTAzfDE3MS4yMzIuNzYuMTU2fDg5NzRjOWI0OWZmMDljNDViZDVlODdlNzNiZTQ0ZTI5/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1, BTV 4
+#EXTINF:-1,group-title="Kênh cơ bản", BTV 4
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8YnR2NGhkX3ZobHMuc21pbHx2aWV0dGVsfDE2OTc0MTgxODR8MTcxLjIzMi43Ni4xNTZ8ZWM1YWMzMDI5YTA1ZDcxNDcxZGQ2MzZkNzFjOGE4MDU/epzhd2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U
-#EXTINF:-1, BTV 6
+#EXTINF:-1,group-title="Kênh cơ bản", BTV 6
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8YnR2Nl9obHMuc21pbHx2aWV0dGVsfDE2OTc0MTgyMzh8MTcxLjIzMi43Ni4xNTZ8ZGQ1MGU5NzcwMWRhOTU3NThhOGMzZjhlYjUyZDQ0ZTQ/epzsd1/btv6_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1, BTV 9
+#EXTINF:-1,group-title="Kênh cơ bản", BTV 9
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8YnR2OV9obHMuc21pbHx2aWV0dGVsfDE2OTc0MTgyNjJ8MTcxLjIzMi43Ni4xNTZ8YWFmN2E4NjlhZjNlMTdhZThjMDJjOGUzNGMwOGQzNzA/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1, BTV 11
+#EXTINF:-1,group-title="Kênh cơ bản", BTV 11
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8YnR2MTFfaGxzLnNtaWx8dmlldHRlbHwxNjk3NDE4MjkwfDE3MS4yMzIuNzYuMTU2fGU2NTU3ZmI3ZGI0ZDAyZDI0Y2U1YjdhYzdjODMwNmJj/epzsd1/btv11_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1, VOV TV
+#EXTINF:-1,group-title="Kênh cơ bản", VOV TV
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dm92dHZzZF9obHMuc21pbHx2aWV0dGVsfDE2OTc0MTgzMDl8MTcxLjIzMi43Ni4xNTZ8ZWU1OTM2YWVlOWY3NDhkY2U0YzdjNWJjY2Q0YTZhYmU/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTM3U
-#EXTINF:-1, Hà Nội TV 1
+#EXTINF:-1,group-title="Kênh cơ bản", Hà Nội TV 1
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8aGFub2l0djFfdmhscy5zbWlsfHZpZXR0ZWx8MTY5NzQxODM0N3wxNzEuMjMyLjc2LjE1Nnw5MjBmYmFjYTQyMjQxM2EyOWU1YWQ3YTI5NDMzMTU1MQ/fnxhd2/hanoitv1_vhls.smil/chunklist_b1800000.m3u8
 
 #EXTM3U
-#EXTINF:-1, Hà Nội TV 2
+#EXTINF:-1,group-title="Kênh cơ bản", Hà Nội TV 2
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8aGFub2l0djJfaGxzLnNtaWx8dmlldHRlbHwxNjk3NDE4Mzc5fDE3MS4yMzIuNzYuMTU2fDVmYWJhMzIyOTU1OTU3YzcxZjZiMmUzZGE1ZjQwMWVi/fnxhd2/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
