@@ -119,6 +119,41 @@ https://sgn-vtt-002-livecdn-vthn-vnd.vieon.vn/d8133bce040dcdcaddf6c2390dfca14b/1
 #EXTINF:-1, group-title="VTC", VTC 16
 https://sgn-vtt-001-livecdn-vthn-vnd.vieon.vn/40c0ddc09ba96bd744f62a443291d63b/1697511426838/livetv/c9c64a49f870b01934ff3fd92363da73/playlist.mpd?codec=hvc
 
+#EXTINF:-1, group-title="HTVC", HTVC Thuần Việt 1
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/c80e29e5afd191db413850837e3295ed/1697512910205/livetv/1b2089ecd9f259dfc6700a1cd08a6afc/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTVC", HTVC Thuần Việt HD
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/233688d7166678057991110867b10fd8/1697512980397/livetv/c5ca04c91149a945c74c9f62c12d78c2/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTVC", HTVC plus
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/e6f92912e4d03a09e9c6c7b15b1c4cc0/1697512999515/livetv/e74fd2dce10d3e3214a67179927ae5f1/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTVC", HTVC du lịch cuộc sống
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/e7581bbb841dae28628a897b1b71e01a/1697513031591/livetv/38c4313cc4259dc1319176800bf3ae4a/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTVC", HTVC ca nhạc
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/d5a051f5f70740578ecbb7baee676beb/1697513057541/livetv/b565c337b64d304f3f13f8848451e6ec/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTVC", HTVC phim
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/5da4700a734092aee6a3677001c4f8e4/1697513076449/livetv/59b0a6687f2273069f2dfb0fecb9e03d/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTVC", HTVC gia đình
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/32f5e94a6d6bc67762286649566c22b7/1697513111647/livetv/eb22dc424b2b5f6dc465251ef7719271/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="HTVC", HTVC phụ nữ
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/40c188bf97d4c57464c0d8a50e327996/1697513130043/livetv/db7cbd168f683a415f970b3ccc31e2b1/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="THVL", THVL 1
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/27f01d37881db93f020f1c063073c5f7/1697513174614/livetv/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="THVL", THVL 2
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/ef9c64eb794f06c0c5864fc9ed7ddd50/1697513194154/livetv/8782328c0b24e63b80af42e73fabdad5/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="THVL", THVL 3
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/ebb457013cf280c77ada6685f06f302f/1697513209800/livetv/d163c8c091b5c937a0b5789d2be251b4/playlist.mpd?codec=hvc
+
+#EXTINF:-1, group-title="THVL", THVL 4
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/1015e3840a18705b47d33e489c622d13/1697513226694/livetv/759df25e7b439639ed0c2588b776735b/playlist.mpd?codec=hvc
 
 
 
