@@ -2,12 +2,12 @@
 #EXTM3U
 #EXTGRP:Kênh cơ bản
 
-#EXTINF:-1,VTV 1 HD
+#EXTINF:-1 group-title="LIVE EVENTS" VTV 1 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnR2MWhkX3ZobHMuc21pbHx2aWV0dGVsfDE2OTc0MTYzNjB8MTcxLjIzMi43Ni4xNTZ8Y2ExZjU0NmQ4ODg5N2MxM2I2NGQzMjQ5MDUwYjMwOTA/fnxhd1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1,VTC 1 HD
+#EXTINF:-1 group-title="LIVE EVENTS" VTC 1 HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dnRjMV92aGxzLnNtaWx8dmlldHRlbHwxNjk3NDE2NTk1fDE3MS4yMzIuNzYuMTU2fGMyNDI0YmZmZDY2N2Y2NWUxZGFjNWIyMDI2YTNiYzMz/fnxhd2/vtc1_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTGRP:Kênh phim
-#EXTINF:-1,TTXVN HD
+#EXTINF:-1 group-title="PHIM" TTXVN HD
 https://vips-livecdn.fptplay.net/Mjk0NDQ0MzZ8dHR4dm5fdmhscy5zbWlsfHZpZXR0ZWx8MTY5NzQxNjY1MnwxNzEuMjMyLjc2LjE1NnwwNjE4YjBlMTUwNTk4Njc0Njk5YzczNmYyMDIzMmYxYw/epzhd2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
